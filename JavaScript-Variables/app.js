@@ -23,8 +23,6 @@
 
 //تمرین دوم
 
-
-
 // let productName = "Xbox";
 
 // let price = "$500";
@@ -46,3 +44,17 @@
 // year = 2026;
 
 // console.log(year)
+
+
+//چالش خانه
+// let brand = "Bmw";
+
+// let model = "X5";
+
+// let year = 2024;
+
+// let price = 50000;
+
+// let color = "Black";
+
+// console.log(brand, model, year, price, color);
