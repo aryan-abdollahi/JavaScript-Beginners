@@ -1,60 +1,74 @@
-مینی پروژه
+// مینی پروژه
 
-let firstName = "Ali";
+let firstName = "Ahmadi";
 
-let lastName = "Ahmadi";
+let lastName = "Ali";
 
 let age = 23;
 
 let city = "Tehran";
 
-console.log(firstName,lastName,age,city);
+// This is wrong
+// console.log(firstName, lastName, age, city);
 
-تمرین اول
-let name = "Ariyan";
+// Point was adding flags to your logs
 
-let age = 22;
+// Change the console.logs like this :
+// console.log("First Name:" , firstName)
+// console.log("Last Name:" , lastName)
 
-let city = "Tehran";
+// تمرین اول
 
-let job = "Realstate";
+// const name = "Ariyan";
 
-console.log(name, age, city, job);
+// let age = 22;
 
-تمرین دوم
+// let city = "Tehran";
 
-let productName = "Xbox";
+// let job = "Front-end Developer";
 
-let price = "$500";
+// console.log(name, age, city, job);
 
-let disCount = "tenperson";
+// تمرین دوم
 
-let stock = 100;
+// let productName = "Xbox";
 
-console.log(productName, price, disCount, stock);
+// let price = 500;
 
-تمرین سوم
+// const currency = "$";
 
-خروجی 30 است
+// let discount = "tenperson";
 
-تمرین چهارم
- باید استفاده شود let چون از متغیر
-let year = 2025;
+// let stock = 100;
 
-year = 2026;
+// console.log(productName, currency + price, discount, stock);
 
-console.log(year)
+// تمرین سوم
 
+// خروجی 30 است
 
-چالش خانه
-let brand = "Bmw";
+// تمرین چهارم
+//  باید استفاده شود let چون از متغیر
 
-let model = "X5";
+// let year = 2025;
 
-let year = 2024;
+// year = 2026;
 
-let price = 50000;
+// console.log(year);
 
-let color = "Black";
+// چالش خانه
 
-console.log(brand, model, year, price, color);
+// let brand = "Bmw";
+
+// let model = "X5";
+
+// let year = 2024;
+
+// let price = 50000;
+
+// let color = "Black";
+
+// console.log(brand, model, year, price, color);
+
+// example:
+// console.log("Brand:", brand)
