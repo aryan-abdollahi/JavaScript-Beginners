@@ -1,60 +1,60 @@
-// مینی پروژه
+مینی پروژه
 
-// let firstName = "Ali";
+let firstName = "Ali";
 
-// let lastName = "Ahmadi";
+let lastName = "Ahmadi";
 
-// let age = 23;
+let age = 23;
 
-// let city = "Tehran";
+let city = "Tehran";
 
-// console.log(firstName,lastName,age,city);
+console.log(firstName,lastName,age,city);
 
-// تمرین اول
-// let name = "Ariyan";
+تمرین اول
+let name = "Ariyan";
 
-// let age = 22;
+let age = 22;
 
-// let city = "Tehran";
+let city = "Tehran";
 
-// let job = "Realstate";
+let job = "Realstate";
 
-// console.log(name, age, city, job);
+console.log(name, age, city, job);
 
-//تمرین دوم
+تمرین دوم
 
-// let productName = "Xbox";
+let productName = "Xbox";
 
-// let price = "$500";
+let price = "$500";
 
-// let disCount = "tenperson";
+let disCount = "tenperson";
 
-// let stock = 100;
+let stock = 100;
 
-// console.log(productName, price, disCount, stock);
+console.log(productName, price, disCount, stock);
 
-//تمرین سوم
+تمرین سوم
 
-// خروجی 30 است
+خروجی 30 است
 
-//تمرین چهارم
-//  باید استفاده شود let چون از متغیر
-// let year = 2025;
+تمرین چهارم
+ باید استفاده شود let چون از متغیر
+let year = 2025;
 
-// year = 2026;
+year = 2026;
 
-// console.log(year)
+console.log(year)
 
 
-//چالش خانه
-// let brand = "Bmw";
+چالش خانه
+let brand = "Bmw";
 
-// let model = "X5";
+let model = "X5";
 
-// let year = 2024;
+let year = 2024;
 
-// let price = 50000;
+let price = 50000;
 
-// let color = "Black";
+let color = "Black";
 
-// console.log(brand, model, year, price, color);
+console.log(brand, model, year, price, color);
