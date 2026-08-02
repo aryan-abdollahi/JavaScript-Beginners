@@ -1,35 +1,35 @@
-// مینی پروژه کلاس
+مینی پروژه کلاس
 
-// for(let i=1;i<=10;i++){
+for(let i=1;i<=10;i++){
 
-//     console.log(5*i);
-// }
+    console.log(5*i);
+}
 
-// تمرین خانه 1
+تمرین خانه 1
 
-// for(let i=1;i<=14;i++){
+for(let i=1;i<=14;i++){
 
-//     console.log(7*i);
-// }
+    console.log(7*i);
+}
 
-// تمرین خانه 2
+تمرین خانه 2
 
-// let sum =0;
+let sum =0;
 
-// for(let i=1;i<=100;i++){
-//     sum = sum + i;
-//     console.log(sum);
-// }
+for(let i=1;i<=100;i++){
+    sum = sum + i;
+    console.log(sum);
+}
 
-// تمرین خانه 3
+تمرین خانه 3
 
-// for(let i=2;i<=50;i+=2){
+for(let i=2;i<=50;i+=2){
 
-//     console.log(i);
-// }
+    console.log(i);
+}
 
-// تمرین 4 خانه
+تمرین 4 خانه
 
-// for (let i = 2; i => 50; i += 2) {
-//   console.log(i);
-// }
+for (let i = 2; i => 50; i += 2) {
+  console.log(i);
+}
