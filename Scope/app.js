@@ -1,77 +1,77 @@
-// تمرین 1
+تمرین 1
 
-// function Global() {
+function Global() {
 
-//     let company = "Open AI"
+    let company = "Open AI"
 
-//     console.log(company);
-// }
+    console.log(company);
+}
 
-//  Global();
+ Global();
 
-// تمرین 2
+تمرین 2
 
-// function salary(){
+function salary(){
 
-//     var salary = 5000;
-// }
+    var salary = 5000;
+}
 
-// console.log(salary);
+console.log(salary);
 
-// salary();
-// چون بیرون تابع چاپ شده
+salary();
+چون بیرون تابع چاپ شده
 
-// تمرین 3
+تمرین 3
 
-// for(var i=1;i<=3;i++){
+for(var i=1;i<=3;i++){
 
-// }
+}
 
-// console.log(i);
-// اگر متغیر let بدیم refrence error میده چون بیرون متغیر چاپ شده اما اگر var بدیم خروجی 4 چاپ می شود
+console.log(i);
+اگر متغیر let بدیم refrence error میده چون بیرون متغیر چاپ شده اما اگر var بدیم خروجی 4 چاپ می شود
 
-// تمرین 4
+تمرین 4
 
-//   if(true){
+  if(true){
 
-//     let i0=1;
+    let i0=1;
 
-//     var i=1;
+    var i=1;
 
-//   }
-// اگر با var تعریف کنیم بیرون تابع چاپ می شود
+  }
+اگر با var تعریف کنیم بیرون تابع چاپ می شود
 
-// ولی اگر با let تعریف کنیم داخل تابع فقط چاپ می شود
+ولی اگر با let تعریف کنیم داخل تابع فقط چاپ می شود
 
-//   console.log(i);
+  console.log(i);
 
-//   console.log(i0);
+  console.log(i0);
 
-// چالش خانه
+چالش خانه
 
-// function calculateArea(width, height) {
-//   let area = width * height;
+function calculateArea(width, height) {
+  let area = width * height;
 
-//   return area;
-// }
+  return area;
+}
 
-// console.log(calculateArea(20, 20));
+console.log(calculateArea(20, 20));
 
-// پروژه پایان جلسه
+پروژه پایان جلسه
 
-// let shopName = "Teach Store";
+let shopName = "Teach Store";
 
-// function createOrder(product,quality) {
+function createOrder(product,quality) {
 
-//   let orderld = 1001;
+  let orderld = 1001;
 
-//   console.log("shop:", shopName);
+  console.log("shop:", shopName);
 
-//   console.log("product:", product);
+  console.log("product:", product);
 
-//   console.log("Quantity:", quality);
+  console.log("Quantity:", quality);
 
-//   console.log("Order ID:", orderld);
-// }
+  console.log("Order ID:", orderld);
+}
 
-// createOrder("Laptop",2);
+createOrder("Laptop",2);
