@@ -1,4 +1,4 @@
-تمرین 1
+// تمرین 1
 
 function Global() {
 
@@ -9,19 +9,23 @@ function Global() {
 
  Global();
 
-تمرین 2
+// تمرین 2
 
-function salary(){
+let x = 5000;
 
-    var salary = 5000;
+function salary(x){
+
+
+   
 }
 
-console.log(salary);
+ console.log(salary(x));
 
-salary();
+ salary(x);
+
 چون بیرون تابع چاپ شده
 
-تمرین 3
+// تمرین 3
 
 for(var i=1;i<=3;i++){
 
@@ -30,7 +34,7 @@ for(var i=1;i<=3;i++){
 console.log(i);
 اگر متغیر let بدیم refrence error میده چون بیرون متغیر چاپ شده اما اگر var بدیم خروجی 4 چاپ می شود
 
-تمرین 4
+// تمرین 4
 
   if(true){
 
@@ -47,7 +51,7 @@ console.log(i);
 
   console.log(i0);
 
-چالش خانه
+// چالش خانه
 
 function calculateArea(width, height) {
   let area = width * height;
@@ -57,7 +61,7 @@ function calculateArea(width, height) {
 
 console.log(calculateArea(20, 20));
 
-پروژه پایان جلسه
+// پروژه پایان جلسه
 
 let shopName = "Teach Store";
 
