@@ -1,67 +1,48 @@
-// تمرین 1
+تمرین 1
 
-function Global() {
+function company(openAI){
+let company = "openAI";
 
-    let company = "Open AI"
+console.log(company);
 
-    console.log(company);
 }
-
- Global();
-
-// تمرین 2
-
-let x = 5000;
-
+company();
+تمرین 2
+ let x = 5000;
 function salary(x){
 
-
-   
 }
+console.log(x);
+salary();
 
- console.log(salary(x));
+تمرین 3
 
- salary(x);
-
-چون بیرون تابع چاپ شده
-
-// تمرین 3
-
-for(var i=1;i<=3;i++){
+for(let i=1;i<=3;i++){
 
 }
 
 console.log(i);
-اگر متغیر let بدیم refrence error میده چون بیرون متغیر چاپ شده اما اگر var بدیم خروجی 4 چاپ می شود
+تمرین 4
+if (true) {
+  let x = 100;
 
-// تمرین 4
+  var y = 200;
 
-  if(true){
+  console.log(x);
+}
+console.log(y);
 
-    let i0=1;
+چالش خانه
 
-    var i=1;
+function calculateArea(witdh,height ) {
 
-  }
-اگر با var تعریف کنیم بیرون تابع چاپ می شود
-
-ولی اگر با let تعریف کنیم داخل تابع فقط چاپ می شود
-
-  console.log(i);
-
-  console.log(i0);
-
-// چالش خانه
-
-function calculateArea(width, height) {
-  let area = width * height;
-
+  let area = 3* 3;
   return area;
 }
 
-console.log(calculateArea(20, 20));
+console.log(calculateArea(3*3));
 
-// پروژه پایان جلسه
+پروژه پایان جلسه
 
 let shopName = "Teach Store";
 
