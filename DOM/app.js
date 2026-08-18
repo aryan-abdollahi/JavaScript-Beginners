@@ -1,25 +1,79 @@
+//مینی پروژه
+const title = document.querySelector("#title");
+
+title.textContent = "frontend course";
+
+title.style.color = "white";
+
+title.style.backgroundcolor = "black";
+
+const desc = document.querySelector("#description");
+
+desc.textContent = "Learning JavaScript DOM";
+
+desc.style.fontsize = "22px";
+
 تمرین 1
-const h1 = document.querySelector("h1");
 
-h1.innerHTML = "messi"
+h1 = document.querySelector("h1");
+p = document.querySelector("p");
 
-const p = document.querySelector("p");
+h1.textContent = "messi";
 
-p.textContent = "He plays for inter Miami"
+p.textContent = "Barcelona";
 
-تمرین 2
-const h1 = document.querySelector("h1");
+تمرین2
 
-h1.style.color = "red";
+const title = document.querySelector("h1");
 
-h1.style.fontSize = "2rem";
+title.style.color = "red";
 
-h1.style.backgroundColor = "blue"
+title.style.backgroundColor = "blue";
 
-h1.style.padding = "12px"
+title.style.fontSize = "2rem";
+
+title.style.padding = "16px";
 
 تمرین 3
 
-const p =document.querySelector("p1,p2,p3");
+const famous = document.querySelector("#famous");
 
-p.innerHTML = "salam"
+ famous.textContent = "Anne Hathaway";
+
+چالش خانه 
+
+const title = document.querySelector("#title");
+
+title.innerHTML = "Teach Store";
+
+const price = document.querySelector("#price");
+
+price.innerHTML = "$80";
+
+const stock = document.querySelector("#stock");
+
+stock.innerHTML = "Available";
+
+stock.style.color = "green";
+
+پروژه پایان جلسه
+
+const h1 = document.querySelector("h1");
+
+h1.textContent = "Ariyan";
+
+const age = document.querySelector("#age");
+
+age.textContent = "22";
+
+const city = document.querySelector("#city");
+
+city.textContent = "Tehran";
+
+h1.style.color = "Blue";
+
+h1.style.fontSize = "40px";
+
+city.style.color = "gray";
+
+age.style.color = "gray";
